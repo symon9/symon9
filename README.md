@@ -1,1 +1,1 @@
-## Hi there, my name is <Simon/> 👋
+## Hi there, my name is Simon 👋
