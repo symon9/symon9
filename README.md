@@ -1,8 +1,4 @@
-<h1 align="center">Hi 👋, I'm <Simon /></h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=symon9" alt="symon9" /></a> </p>
-
-- 🌱 I’m currently learning **typescript**
-
+<h1 align="center">Hi 👋, I'm Simon </h1>
 - 📫 How to reach me **iamsymon0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
