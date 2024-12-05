@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **iamsymon0@gmail.com**
 
-- 📄 Know about my experiences
+- 📄 Know more about my experiences
 <a href="https://tinyurl.com/simon-resume" target="_blank">tinyurl.com/simon-resume</a>
 
 <h3 align="left">Connect with me:</h3>
