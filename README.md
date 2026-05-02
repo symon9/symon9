@@ -6,7 +6,7 @@ Building fast, scalable, and user-centered digital products
 </p>
 
 <p align="center">
-<a href="https://bit.ly/4unPrby">Resume</a> •
+<a href="https://bit.ly/cvsimon">Resume</a> •
 <a href="mailto:iamsymon0@gmail.com">Email</a> •
 <a href="https://linkedin.com/in/simon-emmanuel">LinkedIn</a> •
 <a href="https://medium.com/@iamsymon0">Medium</a>
